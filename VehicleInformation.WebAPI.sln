@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleInformation.WebAPI", "VehicleInformation.WebAPI\VehicleInformation.WebAPI.csproj", "{246C854F-9A26-4369-B050-735CBABAA4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDataAccessLayer", "DapperDataAccessLayer\DapperDataAccessLayer.csproj", "{85589DBE-3FAC-4EB0-8E8F-4885FC9A45CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleInfoWebAPI", "VehicleInfoWebAPI\VehicleInfoWebAPI.csproj", "{84EE108D-D03D-4986-B616-8816A6D6ABF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246C854F-9A26-4369-B050-735CBABAA4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246C854F-9A26-4369-B050-735CBABAA4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246C854F-9A26-4369-B050-735CBABAA4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246C854F-9A26-4369-B050-735CBABAA4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85589DBE-3FAC-4EB0-8E8F-4885FC9A45CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85589DBE-3FAC-4EB0-8E8F-4885FC9A45CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85589DBE-3FAC-4EB0-8E8F-4885FC9A45CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85589DBE-3FAC-4EB0-8E8F-4885FC9A45CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EE108D-D03D-4986-B616-8816A6D6ABF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EE108D-D03D-4986-B616-8816A6D6ABF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EE108D-D03D-4986-B616-8816A6D6ABF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EE108D-D03D-4986-B616-8816A6D6ABF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E087CBF2-3E52-450E-BEF3-FA4D145FCBDB}
+	EndGlobalSection
+EndGlobal
